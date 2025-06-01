@@ -6,7 +6,7 @@
 
             const userSearch = form.elements.query.value;
             form.elements.query.value = '';
-            const res = await axios.get(`http://www.omdbapi.com/?i=tt3896198&apikey=b74ffc8d&s=${userSearch}`);
+            const res = await axios.get(`https://www.omdbapi.com/?i=tt3896198&apikey=b74ffc8d&s=${userSearch}`);
             makeImages(res.data.Search);
             console.log(res.data);
                                 
