@@ -12,7 +12,7 @@ Feeling spooky, spacey, or sappy? Just drop a word in the box and let Flicktiona
 
 ## 🧪 Demo
 
-You can try the live version here: [https://yourusername.github.io/flicktionary](#) *(replace with your actual link after hosting)*
+You can try the live version here: [https://nanditasarwate.github.io/Flicktionary/]
 
 ## 🛠️ Built With
 
